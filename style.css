@@ -1,0 +1,30 @@
+body
+{text-align: center;
+    background-color: antiquewhite;
+}
+
+
+#pic1 {
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/95/WorldWarII-DeathsByCountry-Barchart.png);
+    background-repeat: no-repeat;
+    float: right;
+    padding-top: 68px;
+    background-size: cover;
+clear: both;
+}
+div{
+Height: 800px;
+    width: 100%;
+
+}
+#pic2 {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d1/World_War_II_Casualties.svg);
+    background-repeat: no-repeat;
+    float: left;
+    background-size: cover;
+    }
+p
+{
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 22px;
+}
